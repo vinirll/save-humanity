@@ -1,5 +1,7 @@
 # Solution
 
+Problem: https://www.hackerrank.com/challenges/save-humanity
+
 The solution is made upon a well-known algorithm called: Z-Algorithm
 
 I've also considered initially the following well-known Algorithms:
